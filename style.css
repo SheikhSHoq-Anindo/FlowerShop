@@ -22,14 +22,14 @@
 .banner-text-header {
     margin-top: 200px;
     font-weight: 700;
-    font-size: 80px;
+    font-size: 80pt;
     width: 708px;
 }
 
 .banner-text-article {
     margin-top: 40px;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 18pt;
     width: 708px;
     text-align: left;
 }
@@ -50,19 +50,19 @@
     background-color: #E55473;
     color: white;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 20pt;
 }
 
 .text-header h2 {
     margin-top: 178px;
     font-weight: 900;
-    font-size: 40px;
+    font-size: 40pt;
     text-align: center;
 }
 
 .text-header p {
     margin-top: 27px;
-    font-size: 18px;
+    font-size: 18pt;
     text-align: center;
     color: #27272783;
 }
@@ -114,7 +114,7 @@
     text-align: center;
     text-decoration: underline;
     line-height: 35px;
-    font-size: 24px;
+    font-size: 24pt;
     font-weight: 600;
     color: #272727b0;
 }
@@ -169,7 +169,7 @@ header {
 .opt-img p {
     margin-top: 30px;
     line-height: 30px;
-    font-size: 18px;
+    font-size: 18pt;
     color: #272727b0;
 }
 
@@ -190,7 +190,7 @@ header {
 
 .text h2 {
     line-height: 48px;
-    font-size: 40px;
+    font-size: 40pt;
     font-weight: 900;
 }
 
@@ -201,7 +201,7 @@ header {
 .text p {
     margin-top: 24px;
     line-height: 30px;
-    font-size: 18px;
+    font-size: 18pt;
     color: #272727b0;
 }
 
@@ -221,14 +221,14 @@ p {
 
 .instagram h2 {
     line-height: 48px;
-    font-size: 40px;
+    font-size: 40pt;
     font-weight: 900;
 }
 
 .instagram p {
     margin-top: 24px;
     line-height: 30px;
-    font-size: 18px;
+    font-size: 18pt;
     color: #272727b0;
 }
 
@@ -254,7 +254,7 @@ p {
     height: 100%;
 }
 
-footer {
+.subscription {
     margin: 130px auto 0 auto;
     padding: 122px 0px;
     width: 1440px;
@@ -263,21 +263,21 @@ footer {
     background-size: cover;
 }
 
-footer h2,
+.subscription h2,
 p {
     text-align: center;
 }
 
-footer h2 {
+.subscription h2 {
     line-height: 48px;
-    font-size: 40px;
+    font-size: 40pt;
     font-weight: 900;
 }
 
-footer p {
+.subscription p {
     margin-top: 16px;
     line-height: 30px;
-    font-size: 18px;
+    font-size: 18pt;
     color: #272727b0;
 }
 
@@ -287,8 +287,6 @@ footer p {
     margin-top: 50px;
 }
 
-
-
 .email-field {
     width: 700px;
     height: 64px;
@@ -296,4 +294,36 @@ footer p {
     border-color: #ffffff00;
     border: 0px;
     margin: 32px 20px 0px 0px;
+}
+
+footer {
+    margin-top: 128px;
+    text-align: center;
+    background-color: #111010;
+    padding: 130px 0;
+}
+
+footer h2 {
+    margin-top: 128px;
+    font-size: 48pt;
+    line-height: 58px;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+
+footer h2 span {
+    color: #E55473;
+}
+
+footer .sometext {
+    margin-top: 24px;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+footer .fooeterInfo {
+    color: #ffffff3f;
+    margin-top: 32px;
+    line-height: 30px;
 }
