@@ -17,19 +17,23 @@
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
+
+}
+
+.banner-text {
+    padding: 197px 0px;
 }
 
 .banner-text-header {
-    margin-top: 200px;
     font-weight: 700;
-    font-size: 80pt;
+    font-size: 80px;
     width: 708px;
 }
 
 .banner-text-article {
     margin-top: 40px;
     font-weight: 400;
-    font-size: 18pt;
+    font-size: 18px;
     width: 708px;
     text-align: left;
 }
@@ -37,7 +41,10 @@
 .images {
     margin-top: 50px;
     margin-left: 99px;
+}
 
+.images img {
+    height: 800px;
 }
 
 .button {
@@ -50,19 +57,19 @@
     background-color: #E55473;
     color: white;
     font-weight: 600;
-    font-size: 20pt;
+    font-size: 20px;
 }
 
 .text-header h2 {
     margin-top: 178px;
     font-weight: 900;
-    font-size: 40pt;
+    font-size: 40px;
     text-align: center;
 }
 
 .text-header p {
     margin-top: 27px;
-    font-size: 18pt;
+    font-size: 18px;
     text-align: center;
     color: #27272783;
 }
@@ -114,7 +121,7 @@
     text-align: center;
     text-decoration: underline;
     line-height: 35px;
-    font-size: 24pt;
+    font-size: 24px;
     font-weight: 600;
     color: #272727b0;
 }
@@ -169,7 +176,7 @@ header {
 .opt-img p {
     margin-top: 30px;
     line-height: 30px;
-    font-size: 18pt;
+    font-size: 18px;
     color: #272727b0;
 }
 
@@ -190,7 +197,7 @@ header {
 
 .text h2 {
     line-height: 48px;
-    font-size: 40pt;
+    font-size: 40px;
     font-weight: 900;
 }
 
@@ -201,7 +208,7 @@ header {
 .text p {
     margin-top: 24px;
     line-height: 30px;
-    font-size: 18pt;
+    font-size: 18px;
     color: #272727b0;
 }
 
@@ -221,14 +228,14 @@ p {
 
 .instagram h2 {
     line-height: 48px;
-    font-size: 40pt;
+    font-size: 40px;
     font-weight: 900;
 }
 
 .instagram p {
     margin-top: 24px;
     line-height: 30px;
-    font-size: 18pt;
+    font-size: 18px;
     color: #272727b0;
 }
 
@@ -270,14 +277,14 @@ p {
 
 .subscription h2 {
     line-height: 48px;
-    font-size: 40pt;
+    font-size: 40px;
     font-weight: 900;
 }
 
 .subscription p {
     margin-top: 16px;
     line-height: 30px;
-    font-size: 18pt;
+    font-size: 18px;
     color: #272727b0;
 }
 
