@@ -301,6 +301,9 @@ p {
     border-color: #ffffff00;
     border: 0px;
     margin: 32px 20px 0px 0px;
+    font-size: 18px;
+    padding: 0 0 0 22px;
+    color: #272727b0;
 }
 
 footer {
